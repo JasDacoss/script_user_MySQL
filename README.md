@@ -29,5 +29,5 @@ Se implementó un bucle que muestra un menú con opciones para crear un usuario,
 
 Finalmente, al completar el proceso de creación de usuarios, se cierra la conexión a la base de datos para mantener una gestión adecuada de los recursos.
 
-## `2.` ERRORES DURANTE EL PROYECTO
+## `3.` ERRORES DURANTE EL PROYECTO
 Al empezar este proyecto y por consiguiente el script se tomó la decisión de trabajar con PostgreSQL. Pero intentando ejecutar el script me daba muchos errores de la conexión a la base de datos. Al tomar la decisión de cambiar al gestor MySQL ya no apareció ningún error. Aún no se sabe si es porque la librería relacionada con PostgreSQL estaba mal utilizada o es más complicado conectar Python con este gestor. 
